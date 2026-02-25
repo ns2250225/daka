@@ -2,6 +2,11 @@
 
 This project allows users to search for a location on a map, upload a photo, and generate a travel photo at that location using AI.
 
+## Demo
+<video src="demo.mp4" controls width="640">
+  您的浏览器不支持 HTML5 视频播放。
+</video>
+
 ## Prerequisites
 
 - Node.js
