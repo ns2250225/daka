@@ -3,7 +3,7 @@
 This project allows users to search for a location on a map, upload a photo, and generate a travel photo at that location using AI.
 
 ## Demo
-![](./demo.mp4)
+[demo](./demo.mp4)
 
 ## Prerequisites
 
