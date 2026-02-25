@@ -148,7 +148,7 @@ const searchLocation = async () => {
   if (!searchQuery.value) return;
   
   try {
-    const response = await axios.get('https://nominatim.openstreetmap.org/search', {
+    const response = await axios.get('/nominatim/search', {
       params: {
         q: searchQuery.value,
         format: 'json'
