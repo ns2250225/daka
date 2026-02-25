@@ -1,0 +1,32 @@
+# General
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python / Backend
+__pycache__/
+*.py[cod]
+*$py.class
+backend/venv/
+backend/.env
+backend/.pytest_cache/
+backend/.ipynb_checkpoints/
+.python-version
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+frontend/.env.local
+frontend/.env.*.local
+frontend/.npm/
+
+# Docker
+.docker/
